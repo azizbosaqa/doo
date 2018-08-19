@@ -1,0 +1,9 @@
+total 8
+-rw-rw-rw- 1 tariq tariq    0 Aug 19 03:18 ex02
+drwxr-xr-x 2 tariq tariq 4096 Aug 19 02:29 test0
+-rwx---r-- 1 tariq tariq    0 Aug 19 01:36 test1
+dr-x---r-- 2 tariq tariq 4096 Aug 19 01:27 test2
+-r-----r-- 1 tariq tariq    0 Aug 19 01:44 test3
+-rw-r----x 1 tariq tariq    0 Aug 19 01:46 test4
+-r-----r-- 1 tariq tariq    0 Aug 19 01:50 test5
+lrwxrwxrwx 1 tariq tariq    5 Aug 19 02:32 test6 -> test0
